@@ -27,3 +27,12 @@ def webhook():
 @app.route('/', methods=['GET'])
 def webhook_get():
     return "HI, This is my site with flask."
+
+"""
+Your script bot here.
+ex.
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.send_message(message.chat.id, "Hi, I'm bot")
+
+"""
