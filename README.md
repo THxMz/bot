@@ -7,7 +7,3 @@ pip install pytelegrambotapi
 ```
 pip install Flask
 ```
-4. Install Python mySQL
-```
-pip install mysql-connector-python
-```
